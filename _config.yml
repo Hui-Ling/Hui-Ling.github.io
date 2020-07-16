@@ -73,14 +73,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lingcestmoi/"
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/IMG_1256_1.jpg
-  caption: "No Pain, No Gain."
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-
 footer:
   links:
     - label: "LinkedIn"
